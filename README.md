@@ -8,8 +8,10 @@ Featuring a stickman and Rikka Takanashi from chuunibyou
 
 Download the source and save it somewhere
 
+You need to have [Python](https://www.python.org) installed
 And also theres some libraries you should install
 Just use pip install to download anything that pop up when running the program, except for the characterai api, use this command
+pls someone send me a list with the needed libraries(i don't remember what was built-in or installed by me)
 
 ```bash
 pip install git+https://github.com/kramcat/CharacterAI.git
