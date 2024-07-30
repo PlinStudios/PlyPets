@@ -2,6 +2,8 @@
 
 This a deskstop pet engine i made just for fun based on this [article](https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868) but highly changed(it was so messy but with all the features this one became worse), also it can connect to CharacterAI so you can talk with your pets
 
+Featuring a stickman and Rikka Takanashi from chuunibyou
+
 ## Installation
 
 Download the source and save it somewhere
