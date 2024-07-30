@@ -71,7 +71,7 @@ hello
 blue
 ```
 
-Anyways you can make the file while you test it, go to configuration click sabe and the file Will be reloaded
+Anyways you can make the file while you test it, go to configuration click sabe and the file will be reloaded
 
 ## Do whatever
 
