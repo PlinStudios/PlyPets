@@ -1,0 +1,10 @@
+[["idle",2,8,0.25],["walk_left",4,4,0.5,3],["walk_right",4,4,0.5,3],["grabbed",4,0,0.5],["jump",2,2,0.30],["fall",2,0,2],["fly",5,2,3,0,0,"ly",0,1]]
+[["fly","fall",3],["fly","fly",1]]
+100
+100
+MgMnZKsbnovx1ve17WxieDjWnhksZ1UBapjoCRloTnY
+hello
+2
+80
+0
+blue
