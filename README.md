@@ -10,19 +10,22 @@ Download the source and save it somewhere
 
 You need to have [Python](https://www.python.org) installed
 And also theres some libraries you should install
-Just use pip install to download anything that pop up when running the program, except for the characterai api, use this command
-pls someone send me a list with the needed libraries(i don't remember what was built-in or installed by me)
 
+Paste this in your teminal
 ```bash
 pip install git+https://github.com/kramcat/CharacterAI.git
+pip install pyautogui
+pip install pynput
+pip install AppOpener
 ```
 
 ## Running
 
-Run pet.py with visual studio or the terminal
+Run pet.py with visual studio or the terminal, open powershell on your folder and type
 ```bash
 python pet.py
 ```
+NOTE: Opening with python(.exe) doesn't seem to work so use the terminal
 
 Now you can play with your pet
 
