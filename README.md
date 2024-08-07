@@ -8,7 +8,7 @@ Featuring a stickman and Rikka Takanashi from chuunibyou
 
 Download the source and save it somewhere
 
-You need to have [Python](https://www.python.org) installed
+You need to have [Python](https://www.python.org) and [Git(optional)](https://git-scm.com) installed
 And also theres some libraries you should install
 
 Paste this in your teminal
